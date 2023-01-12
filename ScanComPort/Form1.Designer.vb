@@ -113,7 +113,7 @@ Partial Class Form1
         Me.Panel1.Controls.Add(Me.lblData)
         Me.Panel1.Location = New System.Drawing.Point(24, 190)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(228, 70)
+        Me.Panel1.Size = New System.Drawing.Size(502, 70)
         Me.Panel1.TabIndex = 48
         '
         'Label2
